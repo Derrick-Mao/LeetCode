@@ -10,6 +10,7 @@ Working on LeetCode solutions while practicing with various languages
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0011_Container_With_Most_Water.cpp) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0020_Valid_Parentheses.cpp) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0021_Merge_Two_Sorted_lists.cpp) |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0026_Remove_Duplicates_from_Sorted_Array.cpp) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0058_Length_of_Last_Word.js) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0070_Climbing_Stairs.cpp) |
 | 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0072_Edit_Distance.cpp) |
