@@ -18,4 +18,4 @@ Working on LeetCode solutions while practicing with various languages
 | 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0072_Edit_Distance.cpp) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0169_Majority_Element.cpp) |
 | 0561 | [Array Partition](https://leetcode.com/problems/array-partition/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0561_Array_Partition.js) |
-| 2108 | [Find First Palindromic String in the Array]{https://leetcode.com/problems/find-first-palindromic-string-in-the-array/} | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/2108_1st_Palin_in_Array.cpp) |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/2108_1st_Palin_in_Array.cpp) |
