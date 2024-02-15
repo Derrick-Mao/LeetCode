@@ -18,5 +18,6 @@ LeetCode solutions practice
 | 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0072_Edit_Distance.cpp) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0169_Majority_Element.cpp) |
 | 0561 | [Array Partition](https://leetcode.com/problems/array-partition/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0561_Array_Partition.js) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/2095_Del_Mid_Node_of_Linked_List.cpp) |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/2108_1st_Palin_in_Array.cpp) |
-| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/b9ed18986955940858186b1bad6fa40c43d80356/Solutions/2149_Rearrage_Arr_El_by_Sign.cpp) |
+| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/2149_Rearrage_Arr_El_by_Sign.cpp) |
