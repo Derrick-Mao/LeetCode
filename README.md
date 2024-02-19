@@ -12,6 +12,7 @@ LeetCode solutions practice
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0021_Merge_Two_Sorted_lists.cpp) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0026_Remove_Duplicates_from_Sorted_Array.cpp) |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0027_Remove_Element.cpp) |
+| 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0028_Find_the_i_of_the_1st_Occur_in_a_Str.cpp) |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0034_Find_1st_and_Last_Pos_of_Ele_in_Sorted_Ar.cpp) |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0035_Search_Insert_Pos.cpp) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0058_Length_of_Last_Word.js) |
