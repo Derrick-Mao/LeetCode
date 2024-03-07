@@ -23,6 +23,7 @@ LeetCode solutions practice
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [py](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0088_Merge_Sorted_Array.py) |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0100_Same_Tree.cpp) |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0101_Symmetric_Tree.cpp) |
+| 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0104_Max_Depth_of_BTree.cpp) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0169_Majority_Element.cpp) |
 | 0561 | [Array Partition](https://leetcode.com/problems/array-partition/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0561_Array_Partition.js) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/2095_Del_Mid_Node_of_Linked_List.cpp) |
