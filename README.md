@@ -11,6 +11,7 @@ LeetCode solutions practice
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0019_Rmv_nth_Node_From_End_of_List.cpp) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0020_Valid_Parentheses.cpp) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0021_Merge_Two_Sorted_lists.cpp) |
+| 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0024_Swap_Nodes_in_Pairs.js) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0026_Remove_Duplicates_from_Sorted_Array.cpp) |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0027_Remove_Element.cpp) |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0028_Find_the_i_of_the_1st_Occur_in_a_Str.cpp) |
