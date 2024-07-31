@@ -30,6 +30,7 @@ LeetCode solutions practice
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0104_Max_Depth_of_BTree.cpp) |
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0108_Sorted_Arr_to_BST.cpp) |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0110_Balanced_BTree.cpp) |
+| 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0112_Path_Sum.cpp) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0125_Valid_Palindrome.js) |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0136_Single_Num.js) |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0141_Linked_List_Cycle.cpp) |
