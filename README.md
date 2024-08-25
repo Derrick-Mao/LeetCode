@@ -21,6 +21,7 @@ LeetCode solutions practice
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0036_Valid_Sudoku.cpp) |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0048_Rotate_Image.cpp) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0058_Length_of_Last_Word.js) |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0069_SqrtX.cpp) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0070_Climbing_Stairs.cpp) |
 | 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0072_Edit_Distance.cpp) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0083_Rmv_Dupes_from_Sorted_List.cpp) |
