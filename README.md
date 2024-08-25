@@ -37,6 +37,7 @@ LeetCode solutions practice
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0141_Linked_List_Cycle.cpp) |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0160_Intersection_of_Two_Linked_Lists.js) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0169_Majority_Element.cpp) |
+| 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0200_Num_of_Islands.cpp) |
 | 0561 | [Array Partition](https://leetcode.com/problems/array-partition/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0561_Array_Partition.js) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/2095_Del_Mid_Node_of_Linked_List.cpp) |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/2108_1st_Palin_in_Array.cpp) |
