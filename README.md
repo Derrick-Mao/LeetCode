@@ -32,6 +32,7 @@ LeetCode solutions practice
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0108_Sorted_Arr_to_BST.cpp) |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0110_Balanced_BTree.cpp) |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0112_Path_Sum.cpp) |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0121_Best_Time_to_Buy_and_Sell_Stock.cpp) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0125_Valid_Palindrome.js) |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0136_Single_Num.js) |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0141_Linked_List_Cycle.cpp) |
