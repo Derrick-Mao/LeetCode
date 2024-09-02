@@ -12,6 +12,7 @@ LeetCode solutions practice
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0011_Container_With_Most_Water.cpp) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0013_Roman_to_Integer.cpp) |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0014_Longest_Common_Prefix.cpp) |
+| 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0015_3Sum.cpp) |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0019_Rmv_nth_Node_From_End_of_List.cpp) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0020_Valid_Parentheses.cpp) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0021_Merge_Two_Sorted_lists.cpp) |
