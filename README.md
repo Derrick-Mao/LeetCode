@@ -8,6 +8,7 @@ LeetCode solutions practice
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0003_Longest_SubS_WOut_Repeating_Ch.js) |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0005_Longest_Palin_Substr.cpp) |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0006_Zigzag_Conv.cpp) |
+| 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0008_String_to_Int_atoi.cpp) |
 | 0009 | [Palindrome number](https://leetcode.com/problems/palindrome-number/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0009_Palindrome_Num.js) |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0011_Container_With_Most_Water.cpp) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0013_Roman_to_Integer.cpp) |
