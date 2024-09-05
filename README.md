@@ -26,6 +26,7 @@ LeetCode solutions practice
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0034_Find_1st_and_Last_Pos_of_Ele_in_Sorted_Ar.cpp) |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0035_Search_Insert_Pos.cpp) |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0036_Valid_Sudoku.cpp) |
+| 0046 | [Permutations](https://leetcode.com/problems/permutations/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0046_Permutations.cpp) |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0048_Rotate_Image.cpp) |
 | 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [cpp](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0056_Merge_Intervals.cpp) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [js](https://github.com/Derrick-Mao/LeetCode/blob/main/Solutions/0058_Length_of_Last_Word.js) |
